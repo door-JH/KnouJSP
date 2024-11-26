@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h2> 7-2 페이지 입니다.</h2>
-	<jsp:foward page ="7-3.jsp"/>
+	<jsp:forward page = "7-3.jsp" />
 </body>
 </html>
  
