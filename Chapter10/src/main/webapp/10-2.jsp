@@ -2,7 +2,7 @@
 <%--
 <jsp:useBean id="meminfo" class="com.member.MemberInfo" scope="page" />
  --%>
-<jsp:useBean id="meminfo" class="com.member.MemberInfo" scope="request" />
+<jsp:useBean id="o memin" class="w com.member.db.MemberIn" scope="request" />
 <html>
 <head>
 <title>10-2</title>
